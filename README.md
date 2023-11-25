@@ -1,1 +1,9 @@
-![Metrics](https://metrics.lecoq.io/VincentAdamNemessisX?template=classic&lines=1&followup=1&habits=1&activity=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
+## 我是VincentAdamNemessisX
+
+- 🐧 一个Python爬虫，Web后端弱鸡
+- 👨‍💻 经历：<a href="https://vincentadamnemessis.site" target="_blank">一个Python菜鸡的成长之路</a>
+- 🏡 作品：<a href="https://vincentadamnemessis.site/BestLover/" target="_blank">BestLover</a>
+
+## 今年汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=VincentAdamNemessisX&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentAdamNemessisX&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
